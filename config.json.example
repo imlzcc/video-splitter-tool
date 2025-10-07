@@ -1,0 +1,6 @@
+{
+  "source_folder": "C:\\Users\\用户名\\Videos\\源视频",
+  "output_folder": "C:\\Users\\用户名\\Videos\\分割片段",
+  "min_duration": 5,
+  "max_duration": 15
+}
